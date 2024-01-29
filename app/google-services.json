@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34925635629",
+    "project_id": "ninthj-a1a2a",
+    "storage_bucket": "ninthj-a1a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34925635629:android:8545c88c27d034d47b30a4",
+        "android_client_info": {
+          "package_name": "com.example.ninthj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaUiQJ3ftxN7PWx2DI6MZFqoWeSQYR1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
